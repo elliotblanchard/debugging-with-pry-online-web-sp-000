@@ -1,4 +1,4 @@
-ruby lib/pry_is_awesome.rbrequire 'pry'
+require 'pry'
 
 def plus_two(num)
 	num + 2
